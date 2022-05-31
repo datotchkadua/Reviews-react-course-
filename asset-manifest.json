@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Reviews-react-course-/static/css/main.3d9f8e8d.chunk.css",
+    "main.js": "/Reviews-react-course-/static/js/main.c29f012d.chunk.js",
+    "main.js.map": "/Reviews-react-course-/static/js/main.c29f012d.chunk.js.map",
+    "runtime-main.js": "/Reviews-react-course-/static/js/runtime-main.b8e51419.js",
+    "runtime-main.js.map": "/Reviews-react-course-/static/js/runtime-main.b8e51419.js.map",
+    "static/js/2.bdbc782b.chunk.js": "/Reviews-react-course-/static/js/2.bdbc782b.chunk.js",
+    "static/js/2.bdbc782b.chunk.js.map": "/Reviews-react-course-/static/js/2.bdbc782b.chunk.js.map",
+    "index.html": "/Reviews-react-course-/index.html",
+    "precache-manifest.044fd108cdc5e871c2db55ddefb3a96c.js": "/Reviews-react-course-/precache-manifest.044fd108cdc5e871c2db55ddefb3a96c.js",
+    "service-worker.js": "/Reviews-react-course-/service-worker.js",
+    "static/css/main.3d9f8e8d.chunk.css.map": "/Reviews-react-course-/static/css/main.3d9f8e8d.chunk.css.map",
+    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/Reviews-react-course-/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8e51419.js",
+    "static/js/2.bdbc782b.chunk.js",
+    "static/css/main.3d9f8e8d.chunk.css",
+    "static/js/main.c29f012d.chunk.js"
+  ]
+}
